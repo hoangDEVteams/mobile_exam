@@ -5,4 +5,10 @@
     <string name="nh_p_kh_i_l_ng_kg">Nhập khối lượng (kg)</string>
     <string name="chuy_n_i">Chuyển đổi</string>
     <string name="k_t_qu_s_hi_n_th_t_i_y">Kết quả sẽ hiển thị tại đây</string>
+    <string name="Title">French Teacher App</string>
+    <string name="black">Black</string>
+    <string name="green">Green</string>
+    <string name="purple">Purple</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
 </resources>
