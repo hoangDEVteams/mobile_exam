@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mobile_exam</string>
+    <string name="button">convert</string>
+    <string name="textview">TextView</string>
+    <string name="nh_p_kh_i_l_ng_kg">Nhập khối lượng (kg)</string>
+    <string name="chuy_n_i">Chuyển đổi</string>
+    <string name="k_t_qu_s_hi_n_th_t_i_y">Kết quả sẽ hiển thị tại đây</string>
+</resources>
