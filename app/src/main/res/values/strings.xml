@@ -11,4 +11,12 @@
     <string name="purple">Purple</string>
     <string name="red">Red</string>
     <string name="yellow">Yellow</string>
+    <string name="btn_addition">Addition</string>
+    <string name="btn_subtraction">Subtraction</string>
+    <string name="textview_luckky">welcome to lucky number</string>
+    <string name="plese_enter_your_lucky_number">plese enter your name</string>
+    <string name="btn_lucky">wish me a luck</string>
+    <string name="btn_share">share my lucky number</string>
+    <string name="textview_10">Your lucky number is:</string>
+    <string name="number">number</string>
 </resources>
