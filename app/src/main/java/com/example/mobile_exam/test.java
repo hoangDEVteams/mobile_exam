@@ -32,7 +32,6 @@ public class test extends AppCompatActivity {
             int luckyNumber = generateLuckyNumber(name);
 
             Intent intent = new Intent(test.this, test1.class);
-            intent.putExtra("KEY_NAME", name);
             intent.putExtra("KEY_LUCKY", luckyNumber);
             startActivity(intent);
         });

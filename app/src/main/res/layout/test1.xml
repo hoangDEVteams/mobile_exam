@@ -34,6 +34,8 @@
 
     <TextView
         android:id="@+id/tvlucky"
+        android:textStyle="bold"
+        android:textSize="30sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="148dp"
@@ -44,16 +46,17 @@
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
     <TextView
-        android:textSize="20sp"
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="136dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="104dp"
         android:layout_marginEnd="142dp"
         android:text="@string/textview_10"
+        android:textStyle="bold"
+        android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="@+id/imageView3"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.483"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

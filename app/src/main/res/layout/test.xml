@@ -53,14 +53,16 @@
 
     <TextView
         android:id="@+id/textView2"
+        android:textStyle="bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="124dp"
         android:layout_marginTop="108dp"
         android:layout_marginEnd="127dp"
         android:text="@string/textview_luckky"
+        android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="@+id/imageView6"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.478"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

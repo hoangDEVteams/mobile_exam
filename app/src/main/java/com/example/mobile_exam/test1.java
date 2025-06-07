@@ -14,10 +14,9 @@ public class test1  extends AppCompatActivity {
 
         TextView tvlucky = findViewById(R.id.tvlucky);
 
-        String name = getIntent().getStringExtra("KEY_NAME");
         int lucky = getIntent().getIntExtra("KEY_LUCKY", -1);
 
-        if (name != null && lucky >= 0) {
+        if (lucky >= 0) {
             tvlucky.setText(String.valueOf(lucky));
         } else {
             tvlucky.setText("Không có dữ liệu.");
